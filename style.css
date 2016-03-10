@@ -205,3 +205,6 @@ textarea.form-control{width:100%;height:10rem;resize:none}
 @media(max-width:840px){.index-posts{width:100%}.index-post{width:100%;margin: 10px 0px 20px;}.index-post:nth-child(2n){float:none;clear:left;margin:10px 0px 10px}.index-pagenav{max-width:100%;padding:0 0 10px 0}.archive-title{padding:0}}
 @keyframes fade-in{0%{opacity:0;transform:translateY(20px)}100%{opacity:1;transform:translateY(0px)}}
 @-webkit-keyframes fade-in{0%{opacity:0;-webkit-transform:translateY(20px)}100%{opacity:1;-webkit-transform:translateY(0px)}}
+
+.comment-main:hover .comment-reply{display:block; -webkit-transition: all .3s ease;-o-transition: all .3s ease;transition.comment-body{ -webkit-transition: all .3s ease; -o-transition: all .3s ease;transition: all .3s ease;}: all .3s ease;}
+.comment-body:hover {margin:0 -54px;padding: 0px 54px;background: #eff3f5;-webkit-transition: all .3s ease;-o-transition: all .3s ease;transition: all .3s ease;}
