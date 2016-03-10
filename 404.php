@@ -124,7 +124,7 @@
                 <section>
                     <div class="title404">
                         <p>情绪瞒不过野荼薇，心蠢蠢欲动比向往复杂</p>
-                    </div><a href="https://www.linpx.com/" class="index404">返回首页</a>
+                    </div><a href="<?php $this->options->siteUrl(); ?>" class="index404">返回首页</a>
                 </section>
                 <footer id="footer404">© 2016 LiNPX</footer>
             </div>
