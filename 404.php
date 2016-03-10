@@ -126,7 +126,7 @@
                         <p>情绪瞒不过野荼薇，心蠢蠢欲动比向往复杂</p>
                     </div><a href="<?php $this->options->siteUrl(); ?>" class="index404">返回首页</a>
                 </section>
-                <footer id="footer404">© 2016 LiNPX</footer>
+                <footer id="footer404">© <?php echo date('Y'); ?> <?php $this->options->title(); ?></footer>
             </div>
         </div>
     </body>
