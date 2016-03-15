@@ -91,7 +91,7 @@ a{-webkit-transition:all .24s;transition:all .24s}
 .index-post-button a:hover{color:#f77b83;border-color:#f77b83;outline-style:none}
 .index-post-button a:active{color:#f77b83;border-color:#f77b83;outline-style:none}
 .index-post-category{height:30px;list-style:none;text-align:right;-webkit-transition:all .24s;transition:all .24s}
-.index-post-category a{opacity:1;visibility:visible;text-align:center;display:block;float:right;font-size:.75em;color:#777;line-height:30px;vertical-align:middle;padding:0 8px 0 10px;max-width:100px;text-overflow:ellipsis;white-space:nowrap;overflow:hidden;background-color:#efefef;-webkit-transition:opacity .24s,color .24s,background-color .24s;transition:opacity .24s,color .24s,background-color .24s}
+.index-post-category a{margin: 0px 2px;opacity:1;visibility:visible;text-align:center;display:block;float:right;font-size:.75em;color:#777;line-height:30px;vertical-align:middle;padding:0 8px 0 10px;max-width:100px;text-overflow:ellipsis;white-space:nowrap;overflow:hidden;background-color:#efefef;-webkit-transition:opacity .24s,color .24s,background-color .24s;transition:opacity .24s,color .24s,background-color .24s}
 .index-post-category a:hover{color:#fff;background:#5b6064}
 
 /* ==========================================================================
